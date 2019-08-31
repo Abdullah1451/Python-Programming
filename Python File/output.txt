@@ -1,0 +1,34 @@
+My Name Is Abdullah
+
+My Father Name Is Abid
+
+My Mother Name Is Nishat
+
+I Am Very Talented Boy
+
+Oh And Handsome Too.
+
+
+ File End Using While Loop
+
+
+My Name Is Abdullah
+
+My Father Name Is Abid
+
+My Mother Name Is Nishat
+
+I Am Very Talented Boy
+
+Oh And Handsome Too.
+
+
+ File End Using For Loop
+
+
+My Name Is Abdullah
+My Father Name Is Abid
+My Mother Name Is Nishat
+I Am Very Talented Boy
+Oh And Handsome Too.
+
